@@ -9,6 +9,7 @@
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CartItemService.java
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/CartItem.java
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CartDao.java
+/Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/CartController.java
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/ProductDao.java
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/ProductDaoImpl.java
 /Users/luo/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CustomerDaoImpl.java
